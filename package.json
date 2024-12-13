@@ -1,0 +1,9 @@
+{
+	"name": "thst-430-final",
+	"dependencies": {
+		"openai": "^4.76.2"
+	},
+	"devDependencies": {
+		"@types/bun": "latest"
+	}
+}
